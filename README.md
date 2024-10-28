@@ -10,11 +10,11 @@ The Fitness Training App is a Python-based project that helps users create and m
 4. Progress Tracking and Reports
 
 ## Project Structure
-1. fitness_app/user.py # Contains the User class
-2. fitness_app/exercise.py # Contains the Exercise class
-3. fitness_app/workout.py # Contains the Workout class
-4. fitness_app/progress.py # Contains the ProgressTracker class
-5. fitness_app/main.py # Main script to run the application (menu system)
+1. user.py # Contains the User class
+2. exercise.py # Contains the Exercise class
+3. workout.py # Contains the Workout class
+4. progress.py # Contains the ProgressTracker class
+5. main.py # Main script to run the application (menu system)
 6. README.md # Project documentation
 
 ## Requirements
